@@ -1,4 +1,5 @@
 ﻿# Programa - Máquina de Troco
+# Troco com o menor número possível de notas e moedas
 
 from decimal import Decimal
 
